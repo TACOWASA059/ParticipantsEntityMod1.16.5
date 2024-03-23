@@ -1,0 +1,6 @@
+.*/
+run/
+run-data/
+test/
+generated/
+build/
